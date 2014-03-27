@@ -14,7 +14,7 @@ public class CheckStrings {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //declare vars
+        //declare variables
         String string1a;
         String string1b;
         
